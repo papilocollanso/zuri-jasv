@@ -1,0 +1,17 @@
+#name{
+      color:blue;
+      text-align: center;
+      margin: 50px;
+      text-decoration: underline black
+    ;
+}
+div{
+    text-align: center;
+    background-color: #ccc;
+    padding: 10px;
+    border :1px solid #ccc;
+    border-radius: 20px;
+    margin: 10px;
+    font-size: 25px;
+
+}
